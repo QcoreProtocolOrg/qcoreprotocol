@@ -33,8 +33,8 @@ https://testnet.qtum.info/contract/d22c2ffbea5e2501362b4be4ff86b8935afea31f
 
 
 
-Dev account 
-qQof44vWJW74v4zBk6wZt3qZADVZLmMJ53
+Dev and miner account: qQof44vWJW74v4zBk6wZt3qZADVZLmMJ53
+
 Hex value: 4f7bf9690ba8ced59d1c5ab8ed15fc9791d421ea
 
 
