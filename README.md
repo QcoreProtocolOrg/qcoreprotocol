@@ -2,7 +2,7 @@
 
 # 🐣 QCore Protocol
 
-https://qcoreprotocol.org/
+https://www.qcoreprotocol.org
 
 Qcore is a scalable yield farming protocol built on QTUM blockchain.With the rise of Defi projects like yearn, Uniswap and Sushi etc, we see a strong demand and market future for QTUM Defi projects. We build our contract in a scalable way for adopting any QRC20 tokens with different decimal settings, including future QRC20 LP tokens.
 
