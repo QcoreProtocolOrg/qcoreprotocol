@@ -365,7 +365,7 @@
 				"type": "address"
 			}
 		],
-		"name": "pendingQCore",
+		"name": "pendingRewards",
 		"outputs": [
 			{
 				"internalType": "uint256",

@@ -73,3 +73,50 @@ Dev: qQof44vWJW74v4zBk6wZt3qZADVZLmMJ53
 Hex value: 4f7bf9690ba8ced59d1c5ab8ed15fc9791d421ea
 
 
+
+
+QCash
+https://testnet.qtum.info/contract/030c8cb5fc00c57519024ec6061f998e4cad5bc6
+
+QIP
+https://testnet.qtum.info/contract/6f4eb1e5b3ffa1bdc29805b4c32249b352005ffe
+
+QIPPool
+https://testnet.qtum.info/contract/db2542c0f8aaf791d077006ee984ca77d84016e2
+
+7a44496f9c118b568884f7c4f6b0d10f0a540b83
+
+10000000000000000000
+100000000 00000000
+
+DEV: qNHRqrDhKbHpjbg2rqYm1exy7vKH8JmAtT
+HEX: 33d43753deb13274abc1666bc9b69aebeba337fb
+
+
+qQUR13NRe4FPwLR99Qsdk4XgZ7o43iLq4i
+4bd8573f65d633d84e59dbb02060f3b26cdbceb3
+
+$ /Applications/Qtum-Qt.app/Contents/MacOS/Qtum-Qt -testnet
+
+
+2 minutes per block
+
+2 * 60 * 24 * 14
+
+40320
+716,353
+= 756673
+
+-- 
+
+
+
+
+
+
+
+
+
+
+
+

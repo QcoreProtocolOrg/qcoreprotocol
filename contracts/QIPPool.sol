@@ -630,7 +630,7 @@ contract QIPPool is Ownable {
     // QCore tokens created per block.
     uint256 public QCorePerBlock;
     // Bonus muliplier for early QCore makers.
-    uint256 public constant BONUS_MULTIPLIER = 10;
+    uint256 public constant BONUS_MULTIPLIER = 2;
     
     // Info of each pool.
     PoolInfo[] public poolInfo;

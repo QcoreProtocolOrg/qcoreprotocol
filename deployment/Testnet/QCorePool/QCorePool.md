@@ -1,4 +1,0 @@
-Transaction ID:6b573221a5c5491f0c57db83dbd79cf2382e2f6601ec5dfbfee3521903ba2f60
-SenderAddress: qQof44vWJW74v4zBk6wZt3qZADVZLmMJ53
-Hash160: 4f7bf9690ba8ced59d1c5ab8ed15fc9791d421ea
-Contract Address: d22c2ffbea5e2501362b4be4ff86b8935afea31f
